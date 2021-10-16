@@ -59,10 +59,11 @@
     width: 100px;
   }
   
+  .up {
+    color: green;
+  }
+
   .down {
     color: red;
   }
   
-  .up {
-    color:green;
-  }
